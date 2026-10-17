@@ -10,8 +10,17 @@ Rose Tools | camoweed | camoweed
 
 Minecraft | bta | camoweed
 - All shovels
-- All Ingots, brick
+- All Ingots, brick, stick
 - Bowl
+
+Minecraft | bta | ruby
+- Swords
+Minecraft | bta | callmeiko
+- Jars
+Minecraft | bta | badsbee
+- Axes
+Minecraft | bta | soupAmong
+- Pickaxes
 
 Better with Magnets | MelonMojito | camoweed
 - Magnet
@@ -27,10 +36,28 @@ Frogs | luke | camoweed
 - Cooked and raw Frog Legs
 
 TLOTD | TLOTD | camoweed
-- All items and blocks
+- All items, blocks, and armor pieces
 
 ToLaserBlade | Iunius118 | camoweed
 - All laser blades
 
 BTA Computer Craft Tweaked | gungun | camoweed
 - All items and blocks
+
+Superheated Steel | blueasis | camoweed
+- All tools and ingot
+
+Tiny Chunkloader | gungun | camoweed
+- Tiny Chunkloader
+
+Golden Bat | redart15 | camoweed
+- Golden Bat
+
+Paxels | lukeisstuff | camoweed
+- All paxels
+
+Better with Backpacks | useless | camoweed
+- Backpacks
+
+Moonmoonmoon | useless | camoweed
+- Star backpack
